@@ -1,5 +1,5 @@
-# SFCC
-SFCC QuickLinks of Tools and Products Created and Maintained by [Dharmesh Gurnani](https://github.com/dharmeshgurnani)
+# SFCC QuickLinks
+SFCC QuickLinks of Tool's and Product's Created and Maintained by [Dharmesh Gurnani](https://github.com/dharmeshgurnani)
 
 [job_ImportProductsImagesFromFTP](https://github.com/dharmeshgurnani/SFCC-job_ImportProductsImagesFromFTP)
 

@@ -1,7 +1,11 @@
 <head>
     <script src="https://cdn.tailwindcss.com"></script>
     <script type="module" src="https://cdn.jsdelivr.net/gh/zerodevx/zero-md@2/dist/zero-md.min.js"></script>
-
+    <style>
+        body {
+            background-color: #f4f4f4;
+        }
+    </style>
     <!-- Google Tag Manager -->
     <script>(function (w, d, s, l, i) {
             w[l] = w[l] || []; w[l].push({
@@ -20,10 +24,18 @@
             style="display:none;visibility:hidden"></iframe></noscript>
     <!-- End Google Tag Manager (noscript) -->
 
-    <div class="container w-2/4 flex m-auto mt-4">
-        <!-- Profit! -->
-        <zero-md src="./README.md"></zero-md>
+    <header class="bg-white shadow m-4">
+        <div class="w-full mx-auto max-w-screen-xl p-4 md:flex md:items-center md:justify-between">
+            <h1 class="w-full font-bold text-2xl sm:text-center">SFCC QuickLinks</h1>
+        </div>
+    </header>
+    <div class="bg-white shadow m-4 ">
+        <div class="container w-2/4 w-full mx-auto max-w-screen-xl p-4 md:flex md:items-center md:justify-between">
+            <!-- Profit! -->
+            <zero-md src="./README.md"></zero-md>
+        </div>
     </div>
+    
 
     <footer class="bg-white shadow m-4">
         <div class="w-full mx-auto max-w-screen-xl p-4 md:flex md:items-center md:justify-between">
